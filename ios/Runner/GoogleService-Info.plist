@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>347140617864-8rgs8kevsa1b92p3f6pkkbnr73dfnusv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.347140617864-8rgs8kevsa1b92p3f6pkkbnr73dfnusv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBmDcO_YUPGsbAze592i0BfrdfGfYEs4WM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>347140617864</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterthailand.sermsuk</string>
+	<key>PROJECT_ID</key>
+	<string>sermsuk-fbde4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sermsuk-fbde4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:347140617864:ios:42b047d43ac4adfb0d913d</string>
+	<key>DATABASE_URL</key>
+	<string>https://sermsuk-fbde4.firebaseio.com</string>
+</dict>
+</plist>

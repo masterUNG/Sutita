@@ -1,0 +1,13 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/masterung/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.14.3/
+cloud_firestore_web=/Users/masterung/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.2.1/
+firebase_auth=/Users/masterung/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.18.3/
+firebase_auth_web=/Users/masterung/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.3.2/
+firebase_core=/Users/masterung/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.2/
+firebase_core_web=/Users/masterung/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.1/
+firebase_storage=/Users/masterung/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-5.0.1/
+flutter_plugin_android_lifecycle=/Users/masterung/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/
+google_maps_flutter=/Users/masterung/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-1.0.6/
+image_picker=/Users/masterung/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.7+12/
+location=/Users/masterung/flutter/.pub-cache/hosted/pub.dartlang.org/location-3.0.2/
+location_web=/Users/masterung/flutter/.pub-cache/hosted/pub.dartlang.org/location_web-1.0.0/
